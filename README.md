@@ -1,4 +1,4 @@
-# API Building in Python for Redis server
+# API Building in Python for Redis Server
 
 This project demonstrates how to build a RESTful API using FastAPI for Redis in Python for key-value data storage operations.
 
