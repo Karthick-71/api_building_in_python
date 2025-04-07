@@ -105,7 +105,7 @@ curl --location --globoff 'http://127.0.0.1:8000/read/{key}'
 
 ### Add Data
 ```bash
-curl --location 'http://0.0.0.0:8000/add/' \
+curl --location 'http://127.0.0.1:8000/add/' \
 --header 'Content-Type: application/json' \
 --data '{
     "key": "Test2",
